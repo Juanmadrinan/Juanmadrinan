@@ -51,7 +51,7 @@
  <table align="center" width="100%" height="100%" >
     <tr>
         <td><img style="border: none;" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Juanmadrinan&theme=github_dark" alt="Juanmadrinan GitHub Stats"/></td>
-        <td><img style="border: none;" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=^Juanmadrinan&theme=github_dark&utcOffset=10" alt="Zane's GitHub Stats"/>
+        <td><img style="border: none;" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username="Juanmadrinan&theme=github_dark&utcOffset=10" alt="Juanmadrinan GitHub Stats"/>
         <td><img style="border: none;" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Juanmadrinan&theme=github_dark" alt="Juanmadrinan GitHub Stats"/></td>
         <td><img style="border: none;" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Juanmadrinan&theme=github_dark" alt="Juanmadrinan GitHub Stats"/></td>
     </tr>
