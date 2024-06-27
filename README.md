@@ -35,7 +35,6 @@
 </div>
 <div align="center">
   <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React"/> 
-  <img [![Built with Astro](https://astro.badg.es/v2/built-with-astro/small.svg)](https://astro.build)/>
   <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="Tailwind"/>
 </div>
 
@@ -51,7 +50,7 @@
  <table align="center" width="100%" height="100%" >
     <tr>
         <td><img style="border: none;" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Juanmadrinan&theme=github_dark" alt="Juanmadrinan GitHub Stats"/></td>
-        <td><img style="border: none;" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username="Juanmadrinan&theme=github_dark&utcOffset=10" alt="Juanmadrinan GitHub Stats"/>
+        <td><img style="border: none;" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Juanmadrinan&theme=github_dark&utcOffset=10" alt="Juanmadrinan GitHub Stats"/>
         <td><img style="border: none;" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Juanmadrinan&theme=github_dark" alt="Juanmadrinan GitHub Stats"/></td>
         <td><img style="border: none;" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Juanmadrinan&theme=github_dark" alt="Juanmadrinan GitHub Stats"/></td>
     </tr>
