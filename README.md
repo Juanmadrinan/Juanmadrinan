@@ -15,7 +15,7 @@
 
 
 
-<h1 align="center" class="section-heading">💻 Programming Technologies</h1>
+<h2 align="center" class="section-heading">💻 Programming Technologies</h2>
 <div align="center">
     <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java"/>
     <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript"/>
@@ -41,25 +41,24 @@
 
 <div align="center">
 <h2 align="center" class="section-heading"> 💻 Github Stats</h2>
-<p>Peek into my GitHub stats to see how I juggle code, coffee, and collaborations! Dive in to check out the milestones of my digital journey!</p>
  <table align="center" width="100%" height="100%" >
     <tr>
-       <td><img style="border: none;" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=zanepearton&theme=github_dark" alt="Zane's GitHub Stats"/></td>   
-       <td><img style="border: none;" src="https://github-readme-streak-stats.herokuapp.com/?user=zanepearton&theme=merko" alt="Zane's Contribution Streak"/></td>
+       <td><img style="border: none;" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=juanmadrinan&theme=github_dark" alt="Juanmadrinan GitHub Stats"/></td>   
+       <td><img style="border: none;" src="https://github-readme-streak-stats.herokuapp.com/?user=juanmadrinan&theme=merko" alt="Juanmadrinan Contribution Streak"/></td>
     </tr>
  </table>
 
  <table align="center" width="100%" height="100%" >
     <tr>
-        <td><img style="border: none;" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=zanepearton&theme=github_dark" alt="Zane's GitHub Stats"/></td>
+        <td><img style="border: none;" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=juanmadrinan&theme=github_dark" alt="Juanmadrinan GitHub Stats"/></td>
         <td><img style="border: none;" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=zanepearton&theme=github_dark&utcOffset=10" alt="Zane's GitHub Stats"/>
-        <td><img style="border: none;" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=zanepearton&theme=github_dark" alt="Zane's GitHub Stats"/></td>
-        <td><img style="border: none;" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=zanepearton&theme=github_dark" alt="Zane's GitHub Stats"/></td>
+        <td><img style="border: none;" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Juanmadrinan&theme=github_dark" alt="Juanmadrinan GitHub Stats"/></td>
+        <td><img style="border: none;" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Juanmadrinan&theme=github_dark" alt="Juanmadrinan GitHub Stats"/></td>
     </tr>
  </table>
 </div>
 
 <div align="center">
-    <h1><img src="https://readme-typing-svg.herokuapp.com?size=50&duration=4000&color=00A8CC&center=true&vCenter=true&width=1000&lines=Hey..+I'm+Juan;This+is+my+Github..;..and+Jesus+is+my+strength✝️;" alt="Typing SVG"/></h1>
+    <h1><img src="https://readme-typing-svg.herokuapp.com?size=25&duration=4000&color=00A8CC&center=true&vCenter=true&width=1000&lines=Hey..+I'm+Juan;This+is+my+Github..;..and+Jesus+is+my+strength✝️;" alt="Typing SVG"/></h1>
     <p><img src="termina-gh.gif" alt="Terminal GH GIF" /></p>
 </div>
