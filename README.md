@@ -59,5 +59,4 @@
 
 <div align="center">
     <h1><img src="https://readme-typing-svg.herokuapp.com?size=25&duration=4000&color=00A8CC&center=true&vCenter=true&width=1000&lines=Hey..+I'm+Juan;This+is+my+Github..;..and+Jesus+is+my+strength✝️;" alt="Typing SVG"/></h1>
-    <p><img src="termina-gh.gif" alt="Terminal GH GIF" /></p>
 </div>
